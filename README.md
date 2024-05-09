@@ -222,7 +222,7 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 <img src="https://github.com/DonBoscoBlaiseA/sendsms/assets/140850829/cf4d6bb7-b7a7-4e84-b91b-5fbd41ab54bb.png" width="600">
 <img src="https://github.com/DonBoscoBlaiseA/sendsms/assets/140850829/313546f8-5cb6-46b5-a8e9-7240d87e44a7.png" width="600">
-<img src="https://github.com/DonBoscoBlaiseA/sendsms/assets/140850829/31210827-9c3b-447b-afc0-4ee49d9834f5.png" widtht="600">
+<img src="https://github.com/DonBoscoBlaiseA/sendsms/assets/140850829/31210827-9c3b-447b-afc0-4ee49d9834f5.png" width="600">
 <img src="https://github.com/DonBoscoBlaiseA/sendsms/assets/140850829/132350e0-4926-48bb-94ba-cf3c5876a37e.png" height="600">
 <img src="https://github.com/DonBoscoBlaiseA/sendsms/assets/140850829/118a251a-d0d6-4591-903d-92d310bf522e.png" height="600">
 <img src="https://github.com/DonBoscoBlaiseA/sendsms/assets/140850829/b5257fd0-5fc4-4567-b63b-e6bebd4418d3.png" height="600">
